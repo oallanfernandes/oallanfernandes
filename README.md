@@ -22,12 +22,13 @@ Gosto de codar ouvindo música 🎧, Rock, R&B, Hip-Hop. Mas quando a máquina f
 -->
 <br>
 <br>
-
+<!--
 ### 📜 Languages 
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <br>
 <br>
+-->
 
 ### 🎓 Certifications
 
