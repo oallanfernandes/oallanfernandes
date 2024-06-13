@@ -41,8 +41,8 @@ Gosto de codar ouvindo música 🎧, Rock, R&B, Hip-Hop. Mas quando a máquina f
 ![LPIC-1](images/lpic-1.jpg)
 ![LPIC-2](images/lpic-2.jpg)
 <br><br>
-[![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/5dd36cbf-2f3c-4bc8-b847-98de34d53f92 "AWS Knowledge: Architecting")
-[![AWS Knowledge: Amazon EKS](https://images.credly.com/size/110x110/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png)](https://images.credly.com/size/110x110/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png "AWS Knowledge: Amazon EKS")
+[![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/cf3e4f16-7c2a-4eea-a146-c8f4e0c41a15/public_url "AWS Knowledge: Architecting")
+[![AWS Knowledge: Amazon EKS](https://images.credly.com/size/110x110/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png)](https://www.credly.com/badges/cf3e4f16-7c2a-4eea-a146-c8f4e0c41a15/public_url "AWS Knowledge: Amazon EKS")
 [![AWS Knowledge: Serverless](https://images.credly.com/size/110x110/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png)](https://www.credly.com/badges/cf3e4f16-7c2a-4eea-a146-c8f4e0c41a15/public_url "AWS Knowledge: Serverless")
 
 <!--END_SECTION:badges-->
