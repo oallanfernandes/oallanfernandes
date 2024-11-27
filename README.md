@@ -2,7 +2,7 @@
 
 Faaaala Pessoal, Allan Fernandes na área e esse aqui é o repositório do Arena
 
-Atualmente sou Analista DevOps Linux na [DNX BRASIL](https://dnxbrasil.com/) e atualmente focado em [AWS](https://aws.amazon.com/pt/), [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/) e [BitBucket Pipelines](https://bitbucket.org/)!
+Atualmente sou Engenheiro DevOps, focado em Cloud [AWS](https://aws.amazon.com/pt/), [OCI](https://www.oracle.com/br/cloud/), e automação com [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/), [BitBucket Pipelines](https://bitbucket.org/) e [GitHub Actions](https://github.com/)!
 
 
 Gosto de codar ouvindo música 🎧, Rock, R&B, Hip-Hop. Mas quando a máquina ferve, nada como o silêncio! 🤫
