@@ -54,6 +54,8 @@ Gosto de codar ouvindo música 🎧, Rock, R&B, Hip-Hop. Mas quando a máquina f
  <a href="https://www.linkedin.com/in/fernandesallan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:allan.fernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+Direitos registrados para Allan Fernandes - Level 4 Cloud <br>
+CNPJ 53.450.493/0001-28
 <!--
 **gitarena/gitarena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
