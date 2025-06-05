@@ -4,22 +4,26 @@ Faaaala Pessoal, Allan Fernandes na área e esse aqui é o repositório do Arena
 
 Atualmente sou Engenheiro DevOps, focado em Cloud [AWS](https://aws.amazon.com/pt/), [OCI](https://www.oracle.com/br/cloud/), e automação com [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/), [BitBucket Pipelines](https://bitbucket.org/) e [GitHub Actions](https://github.com/)!
 
+Estou estudando Python e automação no code com o n8n.
+
 
 Gosto de codar ouvindo música 🎧, Rock, R&B, Hip-Hop. Mas quando a máquina ferve, nada como o silêncio! 🤫
 
 ### ☁️ Clouds 
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img align="left" alt="OCI" width="50px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/oracle-cloud-icon-512x324-162xdoh3.png" />
 <br>
 <br>
+<p></p>
 
 ### 🧰 Tools 
 
 <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
-<!-- <img align="left" alt="GitHubActions" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" />
--->
+<img align="left" alt="GitHub Actions" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <br>
 <br>
 <!--
@@ -55,7 +59,7 @@ Gosto de codar ouvindo música 🎧, Rock, R&B, Hip-Hop. Mas quando a máquina f
  <a href = "mailto:allan.fernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 Direitos registrados para Allan Fernandes - Level 4 Cloud <br>
-R. Abílio Moreira de Miranda, 45 - Imabetiba - Macaé/RJ <br>
+R. Abílio Moreira de Miranda, 45 - Sala 1002 - Imbetiba - Macaé/RJ <br>
 Telefone: 22.999442899
 CNPJ 53.450.493/0001-28 
 <!--
