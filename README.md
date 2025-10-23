@@ -42,7 +42,7 @@ Gosto de codar ouvindo música 🎧, Rock, R&B, Hip-Hop. Mas quando a máquina f
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/282bd9ef-b410-473b-ab35-91cdcc00fea3 "AWS Certified Cloud Practitioner")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/earner/earned/badge/fce05af3-9ba0-407c-8596-2e6c8e870e68 "AWS Certified Solutions Architect")
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/0a089b91-cfd8-4f01-bf0f-b47239e87025 "Microsoft Certified: Azure Fundamentals")
-[![Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EFAE07ED044878020B8B95046853B187FF8E6DB8E4F33D10A298656F1EA17BD1 "AWS Certified Solutions Architect")
+[![Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://images.credly.com/size/110x110/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EFAE07ED044878020B8B95046853B187FF8E6DB8E4F33D10A298656F1EA17BD1 "AWS Certified Solutions Architect")
 ![LPIC-1](images/lpic-1.jpg)
 ![LPIC-2](images/lpic-2.jpg)
 <br><br>
