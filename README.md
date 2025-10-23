@@ -47,7 +47,7 @@ Gosto de codar ouvindo música 🎧, Rock, R&B, Hip-Hop. Mas quando a máquina f
 ![LPIC-2](images/lpic-2.jpg)
 <br><br>
 [![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/cf3e4f16-7c2a-4eea-a146-c8f4e0c41a15/public_url "AWS Knowledge: Architecting")
-[![AWS Knowledge: Amazon EKS]https://images.credly.com/size/110x110/images/f5efafe6-ebdc-485c-9ffa-3a05533e634b/blob)](https://www.credly.com/badges/cf3e4f16-7c2a-4eea-a146-c8f4e0c41a15/public_url "AWS Knowledge: Amazon EKS")
+[![AWS Knowledge: Amazon EKS](https://images.credly.com/size/110x110/images/f5efafe6-ebdc-485c-9ffa-3a05533e634b/blob)](https://www.credly.com/badges/cf3e4f16-7c2a-4eea-a146-c8f4e0c41a15/public_url "AWS Knowledge: Amazon EKS")
 [![AWS Knowledge: Serverless](https://images.credly.com/size/110x110/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob)](https://www.credly.com/badges/cf3e4f16-7c2a-4eea-a146-c8f4e0c41a15/public_url "AWS Knowledge: Serverless")
 
 
