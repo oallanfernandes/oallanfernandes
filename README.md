@@ -52,10 +52,6 @@ Gosto de codar ouvindo música 🎧, Rock, R&B, Hip-Hop. Mas quando a máquina f
 [![AWS Knowledge: Serverless](https://images.credly.com/size/110x110/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob)](https://www.credly.com/badges/cf3e4f16-7c2a-4eea-a146-c8f4e0c41a15/public_url "AWS Knowledge: Serverless")
 
 
-https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png - https://catalog-education.oracle.com/pls/certview/sharebadge?id=1E5B024C363D5BDF03F7630589B1C8E48977B2AB1AB7251D87BEEBF63FDE57F0
-
-https://images.credly.com/images/bce89f7c-3a1a-4fd3-ae5d-ddd582f6b1ca/OCI25AICFAV1_cached_image_20251024-31-bt68u8.png
-
 <!--END_SECTION:badges-->
 
 
